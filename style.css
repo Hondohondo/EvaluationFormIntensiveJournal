@@ -1,0 +1,43 @@
+html {
+  /*background: hsl(217, 71%, 53%);*/
+  /*background: hsl(217, 11%, 53%);*/
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  max-width: 100rem;
+  margin: 0 auto;
+}
+
+h1 {
+  /*color: white;*/
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+}
+
+p {
+
+}
+
+textarea {
+  font-size: 1.5rem !important;
+}
+
+#my-container {
+  background: white;
+  margin: 3rem;
+  padding: 3rem;
+  border-radius: .5rem;
+}
+
+.light {
+  background: lightgray;
+}
+
+.control {
+  font-size: 1.6rem;
+}
