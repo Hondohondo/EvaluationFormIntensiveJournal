@@ -19,10 +19,20 @@ h1 {
   margin-top: 2rem;
 }
 
-p {
+h2 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: .75rem;
+}
+
+span {
+  /*font-size: 1.6rem;*/
 
 }
 
+.input {  font-size: 1.3rem;}
 textarea {
   font-size: 1.5rem !important;
 }
